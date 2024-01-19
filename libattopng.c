@@ -1,4 +1,4 @@
-#include "libattopng.h"
+#include <libattopng/libattopng.h>
 #include <stdlib.h>
 #include <string.h>
 
